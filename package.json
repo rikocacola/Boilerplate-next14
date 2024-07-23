@@ -9,16 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.51.11",
     "antd": "^5.19.3",
     "axios": "^1.7.2",
     "husky": "^9.1.1",
     "jotai": "^2.9.0",
     "next": "14.2.5",
     "react": "^18",
-    "react-dom": "^18",
-    "react-query": "^3.39.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
+    "@tanstack/eslint-plugin-query": "^5.51.12",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

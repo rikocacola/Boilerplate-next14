@@ -1,0 +1,1 @@
+This folder used to create reusable global component.
